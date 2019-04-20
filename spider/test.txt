@@ -1,0 +1,17 @@
+HTTP/1.1 301 Moved Permanently
+Server: Tengine
+Date: Sat, 20 Apr 2019 02:01:32 GMT
+Content-Type: text/html
+Content-Length: 278
+Connection: close
+Location: https://activity.manhua.163.com/
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<h1>301 Moved Permanently</h1>
+<p>The requested resource has been assigned a new permanent URI.</p>
+<hr/>Powered by Tengine</body>
+</html>
+
